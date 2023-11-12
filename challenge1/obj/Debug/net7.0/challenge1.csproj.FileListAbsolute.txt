@@ -1,0 +1,14 @@
+/home/victor/vscode/codember/challenge1/bin/Debug/net7.0/challenge1
+/home/victor/vscode/codember/challenge1/bin/Debug/net7.0/challenge1.deps.json
+/home/victor/vscode/codember/challenge1/bin/Debug/net7.0/challenge1.runtimeconfig.json
+/home/victor/vscode/codember/challenge1/bin/Debug/net7.0/challenge1.dll
+/home/victor/vscode/codember/challenge1/bin/Debug/net7.0/challenge1.pdb
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/challenge1.AssemblyInfoInputs.cache
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/challenge1.AssemblyInfo.cs
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/challenge1.csproj.CoreCompileInputs.cache
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/challenge1.dll
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/refint/challenge1.dll
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/challenge1.pdb
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/challenge1.genruntimeconfig.cache
+/home/victor/vscode/codember/challenge1/obj/Debug/net7.0/ref/challenge1.dll
